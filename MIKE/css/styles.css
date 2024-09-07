@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+img{
+    width: 80px;
+    height: 80px;
+}
+
+.icono{
+    width: 100px;
+    height: 100px;
+}
+#prueba {
+    width: 150px;
+    height: 150px;
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 42px;
+    letter-spacing: 15px;
+    color: blue;
+
+}
+h2{ 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 32px;   
+    font-style: normal;
+
+}
+    
+    
+p{
+    font-family: "Nerko One", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 15px;
+}
